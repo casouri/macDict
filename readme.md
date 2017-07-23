@@ -1,7 +1,7 @@
-#MacDict
+# MacDict
 edit text substitution dictionary of mac 
 
-##To Use
+## To Use
 Edit dictionay in `dict.yml`
 
 And in terminal:
