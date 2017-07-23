@@ -1,0 +1,39 @@
+-
+  replace: yast
+  with: YaST
+-
+  replace: opensuse
+  with: openSUSE
+-
+  replace: kernel
+  with: Kernel
+-
+  replace: gnome
+  with: GNOME
+-
+  replace: kde
+  with: KDE
+-
+  replace: gtk
+  with: GTK
+-
+  replace: qt4
+  with: Qt 4
+-
+  replace: chromium
+  with: Chromium
+-
+  replace: firefox
+  with: Firefox
+-
+  replace: virtualbox
+  with: Virtualbox
+-
+  replace: vmware
+  with: VMware
+-
+  replace: x64
+  with: x86_64
+-
+  replace: x32
+  with: x86
