@@ -1,5 +1,5 @@
-# MacDict
-edit text substitution dictionary of mac 
+# macDict
+Easily edit text substitution dictionary of mac 
 
 ## To Use
 Edit dictionay in `dict.yml`
